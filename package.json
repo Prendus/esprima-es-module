@@ -1,0 +1,13 @@
+{
+  "name": "esprima-es-module",
+  "version": "0.0.0",
+  "description": "",
+  "main": "esprima.js",
+  "dependencies": {
+    "esprima": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Jordan Last <jordan.michael.last@gmail.com>",
+  "license": "MIT"
+}
